@@ -1,0 +1,1145 @@
+--- Document Analysis Output for C:\Users\wb278700\Documents\Python projects\Archives\Personal_Information_13.pdf.json ---
+
+# Page 1
+
+## Paragraphs
+
+**Role:** title
+**BoundingBox:** 1.2727,0.6998,5.935,0.6921,5.9356,1.0198,1.2733,1.0276
+> Record Removal Notice
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.1672,0.5505,10.5396,0.5606,10.5366,0.9729,9.1642,0.9629
+> The World Bank Group Archives & Records Management
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5245,1.3221,1.1129,1.3233,1.1126,1.4595,0.5242,1.4584
+> File Title
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4289,1.4663,4.1523,1.4589,4.1527,1.6411,0.4293,1.6461
+> Edward Jaycox - Chronological File - April - July 1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.5021,1.3245,8.336,1.3249,8.336,1.4664,7.5021,1.466
+> Barcode No.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.4278,1.7191,9.5891,1.7197,9.5889,1.9993,8.4276,1.9987
+> 1546164
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.3894,2.3078,3.2597,2.3078,3.2597,2.4913,0.3894,2.4969
+> Document Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.2597,2.3078,4.5391,2.3078,4.5391,2.4858,3.2597,2.4913
+> Document Type
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.3894,2.4969,3.2597,2.4913,3.2597,2.8083,0.3894,2.8083
+> 07/22/1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.2597,2.4913,4.5391,2.4858,4.5391,2.8083,3.2597,2.8083
+> Memorandum
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4245,2.8203,2.5289,2.8206,2.5288,3.3362,0.4244,3.3359
+> Correspondents / Participants From: Edward Jaycox AFRVP To: Mr. Walter Rill, EDS10
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5204,3.8181,1.4506,3.8192,1.4504,3.965,0.5202,3.9646
+> Subject / Title
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4315,3.97,2.7405,3.969,2.7406,4.13,0.4316,4.1309
+> Confidential: Mr. Markus Kostner
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5194,4.8203,1.3728,4.8222,1.3725,4.974,0.5191,4.9721
+> Exception(s)
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.425,4.9728,1.8614,4.974,1.8613,5.1321,0.4249,5.1309
+> Personal Information
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5144,5.9243,1.9753,5.9278,1.9749,6.073,0.5141,6.0695
+> Additional Comments
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8715,6.3355,10.604,6.3442,10.6022,7.1332,6.8696,7.1246
+> The item(s) identified above has/have been removed in accordance with The World Bank Policy on Access to Information or other disclosure policies of the World Bank Group.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.842,7.5463,8.7389,7.5463,8.7333,7.7353,6.842,7.7353
+> Withdrawn by
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.7389,7.5463,10.4577,7.5463,10.4577,7.7353,8.7333,7.7353
+> Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.842,7.7353,8.7333,7.7353,8.7333,8.0523,6.842,8.0467
+> Salma Berrada El Azizi
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.7333,7.7353,10.4577,7.7353,10.4577,8.0523,8.7333,8.0523
+> July 31, 2025
+
+---
+
+**Role:** pageFooter
+**BoundingBox:** 9.2975,8.0729,10.5923,8.0745,10.5922,8.2076,9.2974,8.206
+> Archives 01 (March 2017)
+
+---
+
+## Tables
+
+| Document Date | Document Type |
+|---|---|
+| 07/22/1994 | Memorandum |
+
+---
+
+| Withdrawn by | Date |
+|---|---|
+| Salma Berrada El Azizi | July 31, 2025 |
+
+---
+
+================================================================================
+
+# Page 2
+
+## Paragraphs
+
+**Role:** paragraph
+**BoundingBox:** 0.4924,0.3592,4.1455,0.3704,4.144,0.8488,0.4909,0.8376
+> THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.657,1.1288,2.0542,1.1241,2.0548,1.3034,0.6576,1.3081
+> DATE: July 22, 1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7983,1.5295,2.7592,1.5283,2.7593,1.6973,0.7984,1.6985
+> TO: Mr. Walter Rill, EDS10
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6261,1.9239,3.1492,1.929,3.1488,2.1057,0.6257,2.1007
+> FROM: Edward V.K. Jaycox, AFRVP
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.2928,2.3345,1.5412,2.3316,1.5416,2.4804,0.2932,2.4834
+> EXTENSION: 34000
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.2293,1.6525,4.7617,1.4885,4.8261,2.091,3.2936,2.255
+> This ayeux
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4796,2.7258,3.6651,2.7319,3.6648,2.899,0.4793,2.8929
+> SUBJECT: Confidential: Mr. Markus Kostner
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0807,3.3281,7.2615,3.3309,7.2613,3.7178,1.0806,3.715
+> Thank you for your memo inquiring about Mr. Kostner's employment prospects in the Africa Region.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0677,3.9266,7.2567,3.93,7.2563,4.7206,1.0673,4.7172
+> Mr. Kostner has satisfactorily undertaken several assignments in the Region, both on secondment and as a consultant. While he has had the opportunity to demonstrate his skills, which certainly gives him the advantage over many candidates, the fact remains that he still must be employed through external recruitment.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0649,4.9274,7.1042,4.9285,7.1041,5.5291,1.0648,5.528
+> The Bank receives thousands of applications for higher-level positions each year; at the same time, the level of external recruitment is relatively low. And, of course, much depends on the types of skills and expertise that the recruiting department is looking for.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0617,5.7328,7.2607,5.7298,7.2612,6.7282,1.0622,6.7313
+> I cannot offer any specific explanation as to why Mr. Kostner has not found a position so far, but the Region has many consultants who, like him, are seeking permanent jobs. However, I will bring Mr. Kostner to the attention of the Africa Personnel team and, in order to give his candidacy the widest exposure possible, to the Recruitment Division, and will ask them to give his application some special consideration.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0757,7.3408,4.7406,7.3355,4.7412,7.7255,1.0762,7.7309
+> cc: Mr. Evans, Mmes. Jukkum and Pepper, PMDAF Ms. Ramprasad, PMDRD
+
+---
+
+================================================================================
+
+# Page 3
+
+## Paragraphs
+
+**Role:** title
+**BoundingBox:** 2.8231,0.9983,5.7577,1.0013,5.7575,1.2167,2.8228,1.2137
+> THE WORLD BANK GROUP
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0178,1.3191,7.5585,1.3259,7.5585,1.6637,1.0178,1.6502
+> ROUTING SLIP DATE: July 19, 1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0178,1.6502,6.1275,1.6637,6.1275,1.9272,1.0178,1.9137
+> NAME
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.1275,1.6637,7.5585,1.6637,7.5518,1.9272,6.1275,1.9272
+> ROOM. NO.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0178,1.9137,6.1275,1.9272,6.1275,2.1975,1.0178,2.184
+> Mrs. Pepper
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0178,2.4542,6.1208,2.4677,6.1208,2.7313,1.0178,2.7313
+> cc: Mr. Evans
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.9964,5.2157,1.3485,5.2157,1.3553,5.4938,1.0032,5.4938
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3485,5.2157,4.1858,5.2157,4.1858,5.4938,1.3553,5.4938
+> URGENT
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1858,5.2157,4.5718,5.2157,4.5718,5.4938,4.1858,5.4938
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.5718,5.2157,7.5446,5.2089,7.5446,5.487,4.5718,5.4938
+> PER YOUR REQUEST
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0032,5.4938,1.3553,5.4938,1.3553,5.7651,1.0032,5.7651
+> :selected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3553,5.4938,4.1858,5.4938,4.1858,5.7651,1.3553,5.7651
+> FOR COMMENT
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1858,5.4938,4.5718,5.4938,4.5718,5.7651,4.1858,5.7651
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.5718,5.4938,7.5446,5.487,7.5446,5.7583,4.5718,5.7651
+> PER OUR CONVERSATION
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0032,5.7651,1.3553,5.7651,1.3553,6.0432,1.0032,6.0432
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3553,5.7651,4.1858,5.7651,4.1858,6.0432,1.3553,6.0432
+> FOR ACTION
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1858,5.7651,4.5718,5.7651,4.5718,6.0432,4.1858,6.0432
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.5718,5.7651,7.5446,5.7583,7.5446,6.0365,4.5718,6.0432
+> NOTE AND FILE
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0032,6.0432,1.3553,6.0432,1.3553,6.3146,1.0032,6.3146
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3553,6.0432,4.1858,6.0432,4.1858,6.3078,1.3553,6.3146
+> FOR APPROVAL/CLEARANCE
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1858,6.0432,4.5718,6.0432,4.5718,6.3078,4.1858,6.3078
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.5718,6.0432,7.5446,6.0365,7.5446,6.3078,4.5718,6.3078
+> FOR INFORMATION
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0032,6.3146,1.3553,6.3146,1.3553,6.5927,1.0032,6.5927
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3553,6.3146,4.1858,6.3078,4.1858,6.5927,1.3553,6.5927
+> FOR SIGNATURE
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1858,6.3078,4.5718,6.3078,4.5718,6.5859,4.1858,6.5927
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.5718,6.3078,7.5446,6.3078,7.5446,6.5859,4.5718,6.5859
+> PREPARE REPLY
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0032,6.5927,1.3553,6.5927,1.3553,6.8641,1.0032,6.8708
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3553,6.5927,4.1858,6.5927,4.1858,6.8641,1.3553,6.8641
+> NOTE AND CIRCULATE
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1858,6.5927,4.5718,6.5859,4.5718,6.8641,4.1858,6.8641
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.5718,6.5859,7.5446,6.5859,7.5513,6.8573,4.5718,6.8641
+> NOTE AND RETURN
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0032,6.8708,1.3553,6.8641,1.3553,7.1422,1.0032,7.149
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1858,6.8641,4.5718,6.8641,4.5718,7.1422,4.1858,7.1422
+> :unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0759,7.2025,6.6203,7.1972,6.6204,7.3873,1.0761,7.3926
+> RE: Memo from the Austrian ED (Mr. Rill) re Markus Kostner's application
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0719,7.4828,2.0074,7.4814,2.0076,7.6424,1.0721,7.6437
+> REMARKS:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.064,7.6812,7.4584,7.6619,7.4619,8.837,1.0675,8.8563
+> Ann: This will need a response from Mr. Jaycox; I was wondering if you had any background on Mr. Kostner's candidacy, i.e. was he given any special consideration by Recruitment, has he been interviewed for any jobs here in the Region, is there any problem of poor performance in his previous assignments? If you have any input, I would be glad to draft something -- or if you want to prepare a reply, that's fine too! Thanks.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.9906,8.8835,3.6143,8.8768,3.6143,9.0727,0.9906,9.0863
+> FROM
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.6143,8.8768,6.1098,8.8768,6.1098,9.0727,3.6143,9.0727
+> ROOM NO.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.1098,8.8768,7.5059,8.87,7.5126,9.0592,6.1098,9.0727
+> EXTENSION
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.9906,9.0863,3.6143,9.0727,3.6075,9.2957,0.9906,9.3025
+> Myra Holsinger
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.6143,9.0727,6.1098,9.0727,6.1098,9.289,3.6075,9.2957
+> J5068
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.1098,9.0727,7.5126,9.0592,7.5126,9.2822,6.1098,9.289
+> 34849
+
+---
+
+## Tables
+
+| ROUTING SLIP DATE: July 19, 1994 |  |
+|---|---|
+| NAME | ROOM. NO. |
+| Mrs. Pepper |  |
+|  |  |
+| cc: Mr. Evans |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+---
+
+| :unselected: | URGENT | :unselected: | PER YOUR REQUEST |
+|---|---|---|---|
+| :selected: | FOR COMMENT | :unselected: | PER OUR CONVERSATION |
+| :unselected: | FOR ACTION | :unselected: | NOTE AND FILE |
+| :unselected: | FOR APPROVAL/CLEARANCE | :unselected: | FOR INFORMATION |
+| :unselected: | FOR SIGNATURE | :unselected: | PREPARE REPLY |
+| :unselected: | NOTE AND CIRCULATE | :unselected: | NOTE AND RETURN |
+| :unselected: |  | :unselected: |  |
+
+---
+
+| FROM | ROOM NO. | EXTENSION |
+|---|---|---|
+| Myra Holsinger | J5068 | 34849 |
+
+---
+
+================================================================================
+
+# Page 4
+
+## Paragraphs
+
+**Role:** paragraph
+**BoundingBox:** 1.0413,0.5407,4.7955,0.5542,4.7932,1.2003,1.039,1.1867
+> THE WORLD BANK/INTERNATIONAL FINANCE CORPORATION OFFICE MEMORANDUM DATE: July 18, 1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.0934,0.4067,7.6341,0.5428,7.5177,1.859,5.977,1.7228
+> 2179 RECEIVED 94 JUL 19 AM 10: 14 OFFICE OF RVP AFRICA REGION
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4372,1.3555,5.478,1.3614,5.4772,1.8783,1.4364,1.8724
+> TO: Mr. Edward V.K. JAYCOX, AFRVP, J 5073 FROM: Walter RILL, EDS10, D 12-041
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.08,2.0462,2.4637,2.0472,2.4636,2.2013,1.0799,2.2002
+> EXTENSION: 84661
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.4819,1.6693,5.3224,1.6688,5.3226,2.0227,4.4821,2.0232
+> in
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2217,2.3898,4.8229,2.3816,4.8233,2.5511,1.2221,2.5593
+> SUBJECT: Application of Mr. Markus KOSTNER
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0137,3.2941,2.3947,3.3122,2.3924,3.4846,1.0114,3.4666
+> Dear Mr. Jaycox,
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.9932,3.6858,7.5278,3.6908,7.5266,5.2365,0.992,5.2315
+> Please find attached the CV of Mr. Kostner who has applied some months ago for employment at the World Bank. As you will see from his CV, he has worked with the Africa Region of the Bank from 1990 - 1992, funded by the Austrian government (Junior Professional Program for the UN System). Moreover, in the meantime he has worked repeatedly on shortterm assignments with the Bank. However, despite his experience and ongoing assignments which seem to indicate some satisfaction with his performance, it seems to be extremely difficult to make a decision towards a longer term employment of Mr. Kostner.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.9846,5.4368,7.4319,5.4397,7.4317,6.0009,0.9843,5.9981
+> Given this situation, I would appreciate it if you could help clarify whether it would be possible to find a staff position for Mr. Kostner, or, if not, why this would not be feasible.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.597,6.2168,5.0012,6.2294,5.0005,6.4125,1.5963,6.3998
+> Thank you very much for your cooperation.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.9824,6.6162,2.0337,6.6224,2.0316,6.9758,0.9803,6.9696
+> Best regards, Walter Rill
+
+---
+
+================================================================================
+
+# Page 5
+
+## Page Numbers
+
+**BoundingBox:** 7.5079,0.6213,7.7115,0.6241,7.7094,0.7718,7.5058,0.769
+> 1/4
+
+---
+
+## Paragraphs
+
+**Role:** pageHeader
+**BoundingBox:** 1.2972,0.5991,2.373,0.5972,2.3733,0.7451,1.2975,0.747
+> Markus Kostner
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6231,1.2245,7.5888,1.2245,7.5888,1.6681,2.6231,1.6592
+> Curriculum Vitae
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2132,1.6592,2.6231,1.6592,2.6231,2.1205,1.2132,2.1028
+> Name:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6231,1.6592,7.5888,1.6681,7.5977,2.1205,2.6231,2.1205
+> Markus Kostner, Mag. Dr. (M.B.A., Ph.D.)
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2132,2.1028,2.6231,2.1205,2.6142,2.8214,1.2043,2.8214
+> Address:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6231,2.1205,7.5977,2.1205,7.5977,2.8214,2.6142,2.8214
+> Rainergasse 29/4 A-1040 Vienna Austria
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2043,2.8214,2.6142,2.8214,2.6142,3.194,1.2043,3.1762
+> Telephone:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6142,2.8214,7.5977,2.8214,7.5977,3.1851,2.6142,3.194
+> (43-1) 505 7886
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2043,3.1762,2.6142,3.194,2.6142,3.4601,1.2043,3.4601
+> Date of Birth:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6142,3.194,7.5977,3.1851,7.6065,3.4601,2.6142,3.4601
+> March 31, 1961
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2043,3.4601,2.6142,3.4601,2.6142,3.6375,1.2043,3.6375
+> Place of Birth:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6142,3.4601,7.6065,3.4601,7.6065,3.6464,2.6142,3.6375
+> Innsbruck, Austria
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2043,3.6375,2.6142,3.6375,2.6142,3.9126,1.2043,3.9126
+> Nationality:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6142,3.6375,7.6065,3.6464,7.6065,3.9126,2.6142,3.9126
+> Austrian
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2043,3.9126,2.6142,3.9126,2.6142,4.1787,1.2043,4.1787
+> Marital Status:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6142,3.9126,7.6065,3.9126,7.6065,4.1698,2.6142,4.1787
+> Married
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2043,4.1787,2.6142,4.1787,2.6142,4.6311,1.1954,4.6311
+> Languages:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6142,4.1787,7.6065,4.1698,7.6065,4.6311,2.6142,4.6311
+> German (native), English (fluent), Spanish (fluent), French (adequate), Italian (basic)
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1954,4.6311,2.6142,4.6311,2.6053,5.607,1.1954,5.607
+> Date:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6142,4.6311,7.6065,4.6311,7.6154,5.6159,2.6053,5.607
+> July 4, 1994 Education
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1954,5.607,2.6053,5.607,2.6053,6.7159,1.1954,6.7159
+> 03/1985-06/1989
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6053,5.607,7.6154,5.6159,7.6243,6.707,2.6053,6.7159
+> Doctoral studies in economics (Major in Development Economics). Doctoral dissertation on "Agricultural Development in Southern Africa. An Institutional Approach"; analysis of the impact of indigenous institutions on agricultural development, with a case study on Swaziland.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1954,6.7159,2.6053,6.7159,2.5965,7.2571,1.1866,7.2571
+> 07/1988-08/1988
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.6053,6.7159,7.6243,6.707,7.6243,7.2482,2.5965,7.2571
+> Affiliated to the Social Science Research Unit, University of Swaziland.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1866,7.2571,2.5965,7.2571,2.5965,7.9845,1.1866,7.9845
+> 08/1987-03/1988
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5965,7.2571,7.6243,7.2482,7.6331,7.9845,2.5965,7.9845
+> Honorary Associate at the Department of Agricultural Economics, University of Wisconsin-Madison.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1866,7.9845,2.5965,7.9845,2.5965,9.2354,1.1777,9.2443
+> 10/1980-03/1985
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5965,7.9845,7.6331,7.9845,7.642,9.2265,2.5965,9.2354
+> Studies in Commercial Sciences (Business Administration) at the Vienna University of Economics and Business Administration (Major in Banking and Finance). Master's thesis on "The Third World and International Capital Markets"; analysis of bond issues of developing countries between 1972 and 1983.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1777,9.2443,2.5965,9.2354,2.5876,9.7499,1.1777,9.7499
+> 09/1967-07/1979
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5965,9.2354,7.642,9.2265,7.642,9.7322,2.5876,9.7499
+> Primary and Secondary school in Innsbruck, Austria.
+
+---
+
+## Tables
+
+|  | Curriculum Vitae |
+|---|---|
+| Name: | Markus Kostner, Mag. Dr. (M.B.A., Ph.D.) |
+| Address: | Rainergasse 29/4 A-1040 Vienna Austria |
+| Telephone: | (43-1) 505 7886 |
+| Date of Birth: | March 31, 1961 |
+| Place of Birth: | Innsbruck, Austria |
+| Nationality: | Austrian |
+| Marital Status: | Married |
+| Languages: | German (native), English (fluent), Spanish (fluent), French (adequate), Italian (basic) |
+| Date: | July 4, 1994 Education |
+| 03/1985-06/1989 | Doctoral studies in economics (Major in Development Economics). Doctoral dissertation on "Agricultural Development in Southern Africa. An Institutional Approach"; analysis of the impact of indigenous institutions on agricultural development, with a case study on Swaziland. |
+| 07/1988-08/1988 | Affiliated to the Social Science Research Unit, University of Swaziland. |
+| 08/1987-03/1988 | Honorary Associate at the Department of Agricultural Economics, University of Wisconsin-Madison. |
+| 10/1980-03/1985 | Studies in Commercial Sciences (Business Administration) at the Vienna University of Economics and Business Administration (Major in Banking and Finance). Master's thesis on "The Third World and International Capital Markets"; analysis of bond issues of developing countries between 1972 and 1983. |
+| 09/1967-07/1979 | Primary and Secondary school in Innsbruck, Austria. |
+
+---
+
+================================================================================
+
+# Page 6
+
+## Page Numbers
+
+**BoundingBox:** 7.4495,0.6013,7.6726,0.6053,7.6699,0.7525,7.4469,0.7485
+> 2/4
+
+---
+
+## Paragraphs
+
+**Role:** pageHeader
+**BoundingBox:** 1.269,0.5785,2.3474,0.5757,2.3478,0.7248,1.2693,0.7276
+> Markus Kostner
+
+---
+
+**Role:** sectionHeading
+**BoundingBox:** 3.7051,1.1112,5.2624,1.1107,5.2625,1.29,3.7051,1.2906
+> Professional Experience
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1627,1.3666,2.5853,1.3575,2.5853,1.9014,1.1627,1.9014
+> 10/1993-
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5853,1.3575,7.6775,1.3666,7.6775,1.9014,2.5853,1.9014
+> Vienna University of Economics and Business Administration. Lecturer in Economics.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5853,1.9014,7.6775,1.9014,7.6775,2.7987,2.5853,2.7987
+> Teaching courses on 'Structural Adjustment in Developing Countries'; supervising students on Master's theses in development economics; Guest Lecturer at the University of Szczecin, Poland, on structural adjustment in economies in transition.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1627,2.7987,2.5853,2.7987,2.5762,3.3515,1.1537,3.3515
+> 03/1993-
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5853,2.7987,7.6775,2.7987,7.6685,3.3515,2.5762,3.3515
+> World Bank. Short-term consultant for AFTHR, AF2PH, AF3CO, and AF6PH (human resources economist).
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5762,3.3515,7.6685,3.3515,7.6685,4.7745,2.5762,4.7836
+> Participation in identification and supervision missions for poverty/human resources (demobilization/reintegration) projects in Malawi, Rwanda, Uganda, and Mozambique (forthcoming); design of safety net components and monitoring and evaluation systems; preparations for staff training at ministries and universities for undertaking poverty- and policy-related analysis; preparing a poverty-impact study covering the agriculture, education, and health sectors.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1537,4.7836,2.5762,4.7836,2.5762,5.5087,1.1537,5.5178
+> 01/1993-
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5762,4.7836,7.6685,4.7745,7.6594,5.4996,2.5762,5.5087
+> Association for Development and Cooperation Austria, Vienna. Assistant to the Director/Project Officer; UN Adviser on secondment to the Ministry of Foreign Affairs.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5762,5.5087,7.6594,5.4996,7.6504,7.8381,2.5581,7.8653
+> Development of salary scheme, design of internal reporting system, preparation of standard contract agreements, development of controlling instruments for short- to medium-term planning. UN Adviser: Advising Austria's permanent representatives to UNIDO on pertinent issues; preparation of policy papers and statements; participation in meetings, conferences, and negotiations with member states; coordination and cooperation with member states of the European Union; general activities in multilateral development cooperation (negotiations, counselling, coordination).
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1446,7.8653,2.5581,7.8653,2.5581,8.2369,1.1446,8.2369
+> 03/1989-
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5581,7.8653,7.6504,7.8381,7.6504,8.2097,2.5581,8.2369
+> Webster University, Vienna campus. Adjunct Professor in Economics.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5581,8.2369,7.6504,8.2097,7.6504,8.9257,2.5581,8.9438
+> Teaching graduate and undergraduate courses in economics (development economics, comparative economic systems); advising students on curriculum.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1356,8.9529,2.5581,8.9438,2.5581,9.5058,1.1356,9.5148
+> 10/1990-10/1992
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5581,8.9438,7.6504,8.9257,7.6413,9.4877,2.5581,9.5058
+> World Bank, Washington D.C. Economist in the Poverty and Social Policy Division, Africa Technical Department.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5581,9.5058,7.6413,9.4877,7.6413,10.1856,2.5491,10.2037
+> Coordinator of the macromodelling component of the Cameroon SDA project; coordinator of the SDA Study Funds/Poverty Analysis Components in Malawi and Uganda; organization of courses in "Social
+
+---
+
+## Tables
+
+| 10/1993- | Vienna University of Economics and Business Administration. Lecturer in Economics. |
+|---|---|
+|  | Teaching courses on 'Structural Adjustment in Developing Countries'; supervising students on Master's theses in development economics; Guest Lecturer at the University of Szczecin, Poland, on structural adjustment in economies in transition. |
+| 03/1993- | World Bank. Short-term consultant for AFTHR, AF2PH, AF3CO, and AF6PH (human resources economist). |
+|  | Participation in identification and supervision missions for poverty/human resources (demobilization/reintegration) projects in Malawi, Rwanda, Uganda, and Mozambique (forthcoming); design of safety net components and monitoring and evaluation systems; preparations for staff training at ministries and universities for undertaking poverty- and policy-related analysis; preparing a poverty-impact study covering the agriculture, education, and health sectors. |
+| 01/1993- | Association for Development and Cooperation Austria, Vienna. Assistant to the Director/Project Officer; UN Adviser on secondment to the Ministry of Foreign Affairs. |
+|  | Development of salary scheme, design of internal reporting system, preparation of standard contract agreements, development of controlling instruments for short- to medium-term planning. UN Adviser: Advising Austria's permanent representatives to UNIDO on pertinent issues; preparation of policy papers and statements; participation in meetings, conferences, and negotiations with member states; coordination and cooperation with member states of the European Union; general activities in multilateral development cooperation (negotiations, counselling, coordination). |
+| 03/1989- | Webster University, Vienna campus. Adjunct Professor in Economics. |
+|  | Teaching graduate and undergraduate courses in economics (development economics, comparative economic systems); advising students on curriculum. |
+| 10/1990-10/1992 | World Bank, Washington D.C. Economist in the Poverty and Social Policy Division, Africa Technical Department. |
+|  | Coordinator of the macromodelling component of the Cameroon SDA project; coordinator of the SDA Study Funds/Poverty Analysis Components in Malawi and Uganda; organization of courses in "Social |
+
+---
+
+================================================================================
+
+# Page 7
+
+## Page Numbers
+
+**BoundingBox:** 7.4486,0.574,7.6695,0.5766,7.6678,0.7235,7.4469,0.721
+> 3/4
+
+---
+
+## Paragraphs
+
+**Role:** pageHeader
+**BoundingBox:** 1.2623,0.5644,2.3254,0.5622,2.3257,0.7126,1.2626,0.7148
+> Markus Kostner
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5906,1.0275,7.605,1.0275,7.5846,2.8016,2.5769,2.7948
+> Sector Analysis: Education and Health" and preparation of training materials; organization of and co-conducting workshops on democratization and structural adjustment and networking of African research and teaching institutions; co-conducting a workshop on macroeconomic policies and poverty reduction for staff of the African Development Bank; evaluation of technical papers and Bank projects with regard to their poverty reduction content; preparation of background papers and reports on poverty; technical co-editor for part II (policy and analysis) of the SDA Community Survey document.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1715,2.7948,2.5769,2.7948,2.5633,5.3194,1.1647,5.3194
+> 11/1985-09/1990
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5769,2.7948,7.5846,2.8016,7.5573,5.3126,2.5633,5.3194
+> Vienna University of Economics and Business Administration. Assistant Professor at the Institute of Economic Theory and Policy. Research in development economics and economic policy issues; teaching courses in economics at undergraduate and graduate levels (microeconomics, macroeconomics, history of economic thought; development economics); supervision of theses and dissertations in economics (esp. development economics, international economics, and comparative economic systems); organization of and participation in seminars, workshops and conferences in the areas of development economics and comparative economic systems in Austria, Africa, Central and Eastern Europe, and the USA; member of various university management groups.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1647,5.3194,2.5633,5.3194,2.5633,5.8584,1.1579,5.8653
+> 03/1990-06/1990
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5633,5.3194,7.5573,5.3126,7.5504,5.8516,2.5633,5.8584
+> University of Agronomy, Vienna. Guest Lecturer in Agricultural Economics.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5633,5.8584,7.5504,5.8516,7.5436,6.2133,2.5633,6.2201
+> Teaching a course on agricultural systems and agricultural development.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.1579,6.2269,2.5633,6.2201,2.5565,6.7591,1.1579,6.766
+> 04/1985-09/1985
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5633,6.2201,7.5436,6.2133,7.5436,6.7318,2.5565,6.7591
+> Creditanstalt/Bankverein, Vienna. Researcher in the 'Private Customer Division'.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5565,6.7591,7.5436,6.7318,7.5368,7.2845,2.5565,7.305
+> Consumer research, 'internal marketing', data base management for the marketing department.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.151,7.305,2.5565,7.305,2.5496,7.6325,1.151,7.6325
+> 10/1979-05/1980
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.5565,7.305,7.5368,7.2845,7.53,7.6257,2.5496,7.6325
+> Mandatory military service in Graz, Austria.
+
+---
+
+## Tables
+
+|  | Sector Analysis: Education and Health" and preparation of training materials; organization of and co-conducting workshops on democratization and structural adjustment and networking of African research and teaching institutions; co-conducting a workshop on macroeconomic policies and poverty reduction for staff of the African Development Bank; evaluation of technical papers and Bank projects with regard to their poverty reduction content; preparation of background papers and reports on poverty; technical co-editor for part II (policy and analysis) of the SDA Community Survey document. |
+|---|---|
+| 11/1985-09/1990 | Vienna University of Economics and Business Administration. Assistant Professor at the Institute of Economic Theory and Policy. Research in development economics and economic policy issues; teaching courses in economics at undergraduate and graduate levels (microeconomics, macroeconomics, history of economic thought; development economics); supervision of theses and dissertations in economics (esp. development economics, international economics, and comparative economic systems); organization of and participation in seminars, workshops and conferences in the areas of development economics and comparative economic systems in Austria, Africa, Central and Eastern Europe, and the USA; member of various university management groups. |
+| 03/1990-06/1990 | University of Agronomy, Vienna. Guest Lecturer in Agricultural Economics. |
+|  | Teaching a course on agricultural systems and agricultural development. |
+| 04/1985-09/1985 | Creditanstalt/Bankverein, Vienna. Researcher in the 'Private Customer Division'. |
+|  | Consumer research, 'internal marketing', data base management for the marketing department. |
+| 10/1979-05/1980 | Mandatory military service in Graz, Austria. |
+
+---
+
+================================================================================
+
+# Page 8
+
+## Page Numbers
+
+**BoundingBox:** 7.4456,0.6074,7.6661,0.6103,7.6642,0.7569,7.4436,0.7539
+> 4/4
+
+---
+
+## Paragraphs
+
+**Role:** pageHeader
+**BoundingBox:** 1.2742,0.5996,2.3377,0.5982,2.3379,0.7469,1.2744,0.7483
+> Markus Kostner
+
+---
+
+**Role:** title
+**BoundingBox:** 3.9417,1.3094,5.0236,1.3128,5.023,1.4741,3.9412,1.4707
+> Publications List
+
+---
+
+**Role:** sectionHeading
+**BoundingBox:** 1.2664,1.669,1.693,1.6719,1.692,1.8208,1.2653,1.8179
+> Books
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2759,2.0263,7.6008,2.0254,7.6008,2.3887,1.2759,2.3896
+> 1994 Perspektiven der österreichisch-arabischen Wirtschaftsbeziehungen. ("Austrian-Arab Trade Relations in Perspective".) With Ayad Al-Ani et al. Duncker und Humblot. Forthcoming.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2722,2.5592,7.5811,2.5665,7.5807,2.9276,1.2718,2.9203
+> 1991 Democratization and Structural Adjustment in Africa in the 1990s. Edited with Lual Deng and Crawford Young. University of Wisconsin-Madison: African Studies Program.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2719,3.098,7.1533,3.109,7.1523,3.6316,1.2709,3.6207
+> 1990 Landwirtschaftliche Entwicklung im südlichen Afrika. Ein institutioneller Ansatz. (Agricultural Development in Southern Africa. An Institutional Approach.) Vienna: VWGÖ.
+
+---
+
+**Role:** sectionHeading
+**BoundingBox:** 1.2446,4.0082,1.7279,4.0143,1.7258,4.1861,1.2424,4.18
+> Papers
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2609,4.3556,7.2626,4.3599,7.2622,4.9094,1.2605,4.9051
+> 1993 "Entwicklungsökonomik und Entwicklungspolitik zwischen Scylla und Charybdis." ("Development Economics and Development Policy Between Scylla and Charybdis.") Journal für Entwicklungspolitik 4/1993, pp. 347-359.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.7492,5.0737,7.4552,5.0779,7.4548,5.63,1.7488,5.6257
+> "Einkommenspolitik in Österreich - Die Wirtschafts- und Sozialpartnerschaft." ("Income Policy in Austria - The Economic and Social Partnership.") Economic Papers of the University of Szczecin, Poland, No. 107, pp. 47-61.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2484,5.7971,7.3083,5.8006,7.3081,6.164,1.2482,6.1604
+> 1992 "Poverty in Sub-Saharan Africa. Progress Report on the Implementation of Assistance Strategies to Reduce Poverty." With Lemma Merid. AFTSP, The World Bank.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2469,6.3386,7.5941,6.3246,7.5949,6.6945,1.2477,6.7085
+> 1991 "Reforming Public Administration in Sub-Saharan Africa." with Ayad Al-Ani. In: Deng et al .; pp. 59-65.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.7364,6.8827,7.5613,6.8817,7.5613,7.2513,1.7364,7.2523
+> "Political and Economic Liberalization in Africa in the 1990s: Concluding Interrogations." with Lual Deng and Crawford Young. In: Deng et al .; pp. 213-215.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2407,7.428,7.4403,7.4277,7.4403,7.9717,1.2408,7.972
+> 1990 "'Romantik' oder Ökonomik? Entwicklungsökonomie zwischen Realität und Modellwelt. ("'Romanticism' or Economics? Development Economics Between Reality and Modelling.") Zeitschrift für Ganzheitsforschung 1/1990; pp. 22-33.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2352,8.1563,7.0647,8.1464,7.0653,8.5173,1.2358,8.5271
+> 1989 "Zur Transformation traditioneller Landwirtschaften." ("On the Transformation of Traditional Agriculture.") Journal für Entwicklungspolitik 2/1989; pp. 31-52.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.7269,8.7019,7.4656,8.6855,7.4672,9.2329,1.7285,9.2492
+> "Systemtheoretische Überlegungen zur Transformation traditioneller Landwirtschaften." (System-theoretic Thoughts on the Transformation of Traditional Agriculture.") Working Paper No. 48 of the Vienna University of Economics and Business Administration.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2331,9.431,7.5174,9.4193,7.5181,9.7885,1.2338,9.8002
+> 1987 "Türkei - Vom Musterschüler zum Sorgenkind." (Turkey - From Model Pupil to Problem Child.") International 1/1987; pp. 42-47.
+
+---
+
+================================================================================
+
