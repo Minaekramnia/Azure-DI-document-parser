@@ -193,8 +193,8 @@ class AzureLayoutProcessor:
 #     message_content = message.content
 #     print (message_content)
 if __name__ == '__main__':
-    json_filename = "Personal_Information_1.pdf.json"
-    output_filename = 'Personal_Information_1_analysis_output.txt'
+    json_filename = "Personal_Information_2.pdf.json"
+    output_filename = 'Personal_Information_2_analysis_output.txt'
     processor = AzureLayoutProcessor(json_filename)
     processor.process_document(output_filepath=output_filename)
     prmpt = '''Instruction: Determine whether the following document is a resume/CV. The document is provided in Markdown format, and each text block 
