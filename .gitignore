@@ -1,0 +1,38 @@
+# Large PDF and JSON files
+*.pdf
+*.json
+
+# Output files
+*_analysis_output.txt
+*_CV_analysis_prompt.txt
+master_prompt_output.txt
+segmented_documents_output.txt
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep only essential code files
+!Azure_DI_output_parser.py
+!Azure_DI_output_parser\ copy.py
+!process_PI2.py
+!README.md
+
