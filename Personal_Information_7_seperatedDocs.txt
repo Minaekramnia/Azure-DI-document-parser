@@ -1,0 +1,261 @@
+--- Document Analysis with Segmentation for Personal_Information_7.pdf.json ---
+
+📏 PAGE DIMENSIONS SUMMARY:
+--------------------------------------------------
+Page 1: 11.0278 x 8.5278 inch
+Page 2: 8.5556 x 11.0417 inch
+
+🔄 DOCUMENT CHANGE SUMMARY:
+============================================================
+Total Pages: 2
+Document Segments Found: 2
+Document Changes Detected: 1
+
+🔄 CHANGE DETECTED AT PAGE 2:
+   📏 SIZE CHANGE: 11.0278x8.5278 → 8.5556x11.0417
+   → Decision: SIZE CHANGE ONLY
+
+============================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_1
+Pages: 1-1 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 1: 11.0278 x 8.5278 inch | Titles: ['Record Removal Notice']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_1
+================================================================================
+
+# Page 1
+**📏 Dimensions:** 11.0278 x 8.5278 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'Record Removal Notice'
+
+## Paragraphs
+**🎯 TITLE DETECTED:** title
+**Role:** title
+**BoundingBox:** 1.585,0.924,5.9951,0.9154,5.9957,1.2299,1.5856,1.2385
+> Record Removal Notice
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.0427,0.7838,10.3371,0.7914,10.3349,1.1713,9.0405,1.1637
+> The World Bank Group Archives & Records Management
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7493,1.4889,7.3348,1.4988,7.3348,2.4302,0.7493,2.4302
+> File Title Boke Extension United Nation Development Programme [UNDP] Technical Assistance Project - Guinea - Loan 0557 - P001019 - Correspondence - Volume 16
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.3348,1.4988,10.3995,1.4988,10.3995,2.4302,7.3348,2.4302
+> Barcode No. 1608016
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7493,2.4302,3.0602,2.4302,3.0602,2.6184,0.7493,2.6283
+> Document Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0602,2.4302,7.3348,2.4302,7.3348,2.6184,3.0602,2.6184
+> Document Type
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7493,2.6283,3.0602,2.6184,3.0701,2.8958,0.7592,2.8958
+> April 12, 1979
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0602,2.6184,7.3348,2.6184,7.3348,2.8958,3.0701,2.8958
+> Letter
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.8808,2.9192,2.7647,2.9179,2.7648,3.0618,0.8809,3.0631
+> Correspondents / Participants
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7954,3.0638,1.6976,3.0656,1.6973,3.2146,0.7951,3.2128
+> To: A.P. Hum
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7895,3.2526,2.0237,3.2528,2.0237,3.4056,0.7895,3.4054
+> From: M.J. Gillette
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.882,3.8643,1.7533,3.8627,1.7536,4.0026,0.8822,4.0042
+> Subject / Title
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7957,4.0007,4.9441,3.9898,4.9445,4.1584,0.7961,4.164
+> Guinea - Boke Project - Amount owed Mr. Eric Rogers by OFAB
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7983,4.8013,2.1449,4.8022,2.1447,5.0948,0.7981,5.0938
+> Exception(s) Personal Information
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.8865,5.8567,2.2531,5.8595,2.2528,5.9941,0.8862,5.9912
+> Additional Comments
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8859,6.2293,10.4101,6.234,10.4091,6.9709,6.8849,6.9662
+> The item(s) identified above has/have been removed in accordance with The World Bank Policy on Access to Information or other disclosure policies of the World Bank Group.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8466,7.3674,8.8733,7.3674,8.8733,7.5506,6.8466,7.5506
+> Withdrawn by
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.8733,7.3674,10.3059,7.3674,10.3059,7.5562,8.8733,7.5506
+> Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8466,7.5506,8.8733,7.5506,8.8733,7.8393,6.8466,7.8282
+> Vlada Alekankina
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.8733,7.5506,10.3059,7.5562,10.3115,7.8393,8.8733,7.8393
+> August 18, 2025
+
+---
+
+**Role:** pageFooter
+**BoundingBox:** 9.1837,7.8609,10.4006,7.8617,10.4005,7.9841,9.1836,7.9833
+> Archives 01 (March 2017)
+
+---
+
+## Tables
+| File Title Boke Extension United Nation Development Programme [UNDP] Technical Assistance Project - Guinea - Loan 0557 - P001019 - Correspondence - Volume 16 |  | Barcode No. 1608016 |
+|---|---|---|
+| Document Date | Document Type |  |
+| April 12, 1979 | Letter |  |
+
+---
+
+| Withdrawn by | Date |
+|---|---|
+| Vlada Alekankina | August 18, 2025 |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_1
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_2
+Pages: 2-2 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 2: 8.5556 x 11.0417 inch
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_2
+================================================================================
+
+# Page 2
+**📏 Dimensions:** 8.5556 x 11.0417 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**📏 SIZE CHANGED FROM PREVIOUS PAGE**
+**🔄 DIMENSION CHANGE DETECTED**
+
+## Paragraphs
+**Role:** paragraph
+**BoundingBox:** 5.6335,0.1555,8.2779,0.1734,8.274,0.757,5.6296,0.739
+> guinea- Ln57/n.766 R/C
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.7116,0.7577,7.9676,0.804,7.9574,1.3024,5.7014,1.256
+> March 31, 1977 also att April 12, 1979
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2214,1.1079,6.172,1.1108,6.1716,1.9383,1.2209,1.9354
+> Ms. A.P. Humm, Office of UK Executive Director M.J. Gillette, Division Chief, WA2DC GUINEA - Boke Project - Amount owed Mr. Eric Rogers by OFAB
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2179,2.4579,7.5644,2.4505,7.5658,3.6293,1.2192,3.6367
+> 1. Since my December 14, 1978 memorandum to you concerning the outstanding amount owed Mr. Rogers by OFAB, Mr. Richard Noukelak met with OFAB and CBG officials during his recent mission to Guinea to resolve this matter. The attached letter from Mr. M. Diallo, Financial Director of OFAB, to CBG-Pittsburgh requesting that payment be made to Mr. Rogers, is the result of these discussions. As explained in my December 14 memo, this is the established procedure for handling OFAB's foreign currency transactions.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2161,3.8108,7.1804,3.8095,7.1804,4.1336,1.2162,4.135
+> 2. We will follow up on this letter with CBG-Pittsburgh and inform you as soon as payment is made to Mr. Rogers.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2243,4.6526,2.2506,4.6619,2.2493,4.8044,1.223,4.7951
+> RNoukelak:ja
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2332,4.9918,3.226,4.976,3.2273,5.1353,1.2344,5.151
+> cc: Mr. Brandreth (WAP)
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_2
+================================================================================
+

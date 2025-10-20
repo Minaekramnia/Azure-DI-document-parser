@@ -1,0 +1,27 @@
+--- Vlada Master Prompt Analysis for Personal_Information_1.pdf.json ---
+Analyzing 2 pages for classified content
+
+================================================================================
+PAGE 1 ANALYSIS
+================================================================================
+
+LLM Analysis Results:
+--------------------------------------------------
+Prompt saved to: page_1_vlada_prompt.txt
+To run LLM analysis, uncomment the LLM lines and run:
+# gemini = llm.select_model(llm_registry.vertex.Gemini.PRO_2_5)
+# message = gemini.invoke(full_prompt)
+# print(message.content)
+
+================================================================================
+PAGE 2 ANALYSIS
+================================================================================
+
+LLM Analysis Results:
+--------------------------------------------------
+Prompt saved to: page_2_vlada_prompt.txt
+To run LLM analysis, uncomment the LLM lines and run:
+# gemini = llm.select_model(llm_registry.vertex.Gemini.PRO_2_5)
+# message = gemini.invoke(full_prompt)
+# print(message.content)
+

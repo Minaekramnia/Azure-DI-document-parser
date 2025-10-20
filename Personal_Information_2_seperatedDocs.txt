@@ -9,8 +9,8 @@ Page 3: 8.4861 x 10.9861 inch
 🔄 DOCUMENT CHANGE SUMMARY:
 ============================================================
 Total Pages: 3
-Document Segments Found: 1
-Document Changes Detected: 0
+Document Segments Found: 2
+Document Changes Detected: 1
 
 🔄 CHANGE DETECTED AT PAGE 2:
    📏 SIZE CHANGE: 10.9861x8.4861 → 8.5139x11
@@ -28,13 +28,11 @@ Document Changes Detected: 0
 
 ================================================================================
 DOCUMENT SEGMENT: segment_1
-Pages: 1-3 (3 pages)
+Pages: 1-1 (1 pages)
 
 🔍 SEGMENT ANALYSIS:
 ------------------------------
 Page 1: 10.9861 x 8.4861 inch | Titles: ['Record Removal Notice']
-Page 2: 8.5139 x 11 inch | Page Numbers: ['·'] | Titles: ['CONSTRUCTION EMPLOYMENT AGREEMENT']
-Page 3: 8.4861 x 10.9861 inch | Page Numbers: ['2']
 ================================================================================
 
 
@@ -174,8 +172,31 @@ Page 3: 8.4861 x 10.9861 inch | Page Numbers: ['2']
 
 ----------------------------------------
 
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_1
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_2
+Pages: 2-3 (2 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 2: 8.5139 x 11 inch | Page Numbers: ['·'] | Titles: ['CONSTRUCTION EMPLOYMENT AGREEMENT']
+Page 3: 8.4861 x 10.9861 inch | Page Numbers: ['2']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_2
+================================================================================
+
 # Page 2
 **📏 Dimensions:** 8.5139 x 11 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
 **📖 Page Numbers:** ['·'] (Continuation indicator)
 **↗️ DOCUMENT CONTINUATION**
 **🎯 TITLE FOUND:** 'CONSTRUCTION EMPLOYMENT AGREEMENT'
@@ -270,6 +291,6 @@ Page 3: 8.4861 x 10.9861 inch | Page Numbers: ['2']
 
 
 ================================================================================
-END OF DOCUMENT SEGMENT: segment_1
+END OF DOCUMENT SEGMENT: segment_2
 ================================================================================
 

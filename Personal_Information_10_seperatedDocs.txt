@@ -1,0 +1,328 @@
+--- Document Analysis with Segmentation for Personal_Information_10.pdf.json ---
+
+📏 PAGE DIMENSIONS SUMMARY:
+--------------------------------------------------
+Page 1: 11.0278 x 8.5278 inch
+Page 2: 8.5417 x 11.0139 inch
+
+🔄 DOCUMENT CHANGE SUMMARY:
+============================================================
+Total Pages: 2
+Document Segments Found: 2
+Document Changes Detected: 1
+
+🔄 CHANGE DETECTED AT PAGE 2:
+   📏 SIZE CHANGE: 11.0278x8.5278 → 8.5417x11.0139
+   → Decision: SIZE CHANGE ONLY
+
+============================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_1
+Pages: 1-1 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 1: 11.0278 x 8.5278 inch | Titles: ['Record Removal Notice']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_1
+================================================================================
+
+# Page 1
+**📏 Dimensions:** 11.0278 x 8.5278 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'Record Removal Notice'
+
+## Paragraphs
+**🎯 TITLE DETECTED:** title
+**Role:** title
+**BoundingBox:** 1.3918,0.7591,6.0672,0.7549,6.0675,1.0812,1.3921,1.0854
+> Record Removal Notice
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.3021,0.6204,10.6791,0.63,10.6763,1.0323,9.2992,1.0226
+> The World Bank Group Archives & Records Management
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.508,1.3624,7.4793,1.3729,7.4898,2.3642,0.508,2.3536
+> File Title Water Sector Institutional Strengthening - Trinidad and Tobago - Loan 3784 - P037006 - Supplemental Documents - Volume 3
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.4793,1.3729,10.7438,1.3729,10.7438,2.3642,7.4898,2.3642
+> Barcode No. 30497398
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.508,2.3536,3.0459,2.3536,3.0459,2.5646,0.508,2.5646
+> Document Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0459,2.3536,7.4898,2.3642,7.4898,2.5751,3.0459,2.5646
+> Document Type
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.508,2.5646,3.0459,2.5646,3.0459,2.8493,0.5185,2.8598
+> December 20, 1995
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0459,2.5646,7.4898,2.5751,7.4898,2.8598,3.0459,2.8493
+> Letter
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6382,2.874,2.6365,2.8777,2.6362,3.0314,0.6379,3.0277
+> Correspondents / Participants
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5442,3.0147,7.9318,3.0203,7.9315,3.4079,0.5439,3.4023
+> To: Mr. Emmanuel Romain, Executive Director, Water and Sewerage Authority (WASA), Trinidad & Tobago From: Carlo Rietveld, Task Manager, Environment and Urban Development Division
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5437,3.8751,5.6959,3.8757,5.6958,4.3888,0.5436,4.3883
+> Subject / Title Trinidad & Tobago - Loan 3784-TT Contracts for Miscellaneous Spare Parts Maintenance Service - Caroni Transmission
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5443,4.872,1.9801,4.8755,1.9793,5.1844,0.5435,5.1809
+> Exception(s) Personal Information
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6429,5.9925,2.0924,5.9954,2.0921,6.1358,0.6426,6.133
+> Additional Comments
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.0107,6.4014,10.7512,6.4065,10.7502,7.1847,7.0097,7.1796
+> The item(s) identified above has/have been removed in accordance with The World Bank Policy on Access to Information or other disclosure policies of the World Bank Group.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.002,7.6062,9.1232,7.6062,9.1232,7.8005,7.002,7.8005
+> Withdrawn by
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.1232,7.6062,10.739,7.6117,10.7446,7.8005,9.1232,7.8005
+> Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.002,7.8005,9.1232,7.8005,9.1232,8.1003,7.002,8.1003
+> S. Alon
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.1232,7.8005,10.7446,7.8005,10.7446,8.1058,9.1232,8.1003
+> 8/20/2025
+
+---
+
+**Role:** pageFooter
+**BoundingBox:** 9.4469,8.1314,10.7326,8.1359,10.7322,8.2631,9.4465,8.2586
+> Archives 01 (March 2017)
+
+---
+
+## Tables
+| File Title Water Sector Institutional Strengthening - Trinidad and Tobago - Loan 3784 - P037006 - Supplemental Documents - Volume 3 |  | Barcode No. 30497398 |
+|---|---|---|
+| Document Date | Document Type |  |
+| December 20, 1995 | Letter |  |
+
+---
+
+| Withdrawn by | Date |
+|---|---|
+| S. Alon | 8/20/2025 |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_1
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_2
+Pages: 2-2 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 2: 8.5417 x 11.0139 inch
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_2
+================================================================================
+
+# Page 2
+**📏 Dimensions:** 8.5417 x 11.0139 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**📏 SIZE CHANGED FROM PREVIOUS PAGE**
+**🔄 DIMENSION CHANGE DETECTED**
+
+## Paragraphs
+**Role:** paragraph
+**BoundingBox:** 0.8833,0.4195,4.3538,0.4196,4.3537,0.9085,0.8833,0.9085
+> The World Bank INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT INTBAFRAD INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.6434,0.4394,6.1449,0.4394,6.1449,0.7287,4.6434,0.7287
+> 1818.H Street, N.W Washington, D.C. 20433
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.1449,0.4394,7.4573,0.4394,7.4573,0.7287,6.1449,0.7287
+> (202) 478-2929 Cable Address:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.6434,0.7287,6.1449,0.7287,6.1449,0.9623,4.6434,0.9568
+> U.S.A.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.1449,0.7287,7.4573,0.7287,7.4628,0.9623,6.1449,0.9623
+> FAX: (202) 676-0408
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.7032,1.0566,6.0843,1.0543,6.0846,1.2224,4.7035,1.2247
+> December 20, 1995
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.3447,1.0288,8.0107,0.9968,8.0183,1.3957,6.3524,1.4277
+> Rupp Sc
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5411,1.4477,4.3376,1.4457,4.3383,2.4121,1.5418,2.4142
+> Mr. Emmanuel Romain Executive Director Water and Sewerage Authority (WASA) Head Office: Valsayn. St. Joseph, Trinidad & Tobago W.I.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5666,2.6361,1.8695,2.6338,1.8706,2.7794,1.5677,2.7813
+> Re .:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.1696,2.623,4.9865,2.6203,4.9867,2.7901,2.1698,2.7924
+> TRINIDAD & TOBAGO-Loan 3784-TT
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.1743,2.8167,4.947,2.823,4.9466,2.996,2.1739,2.9896
+> Contracts for Miscellaneous Spare Parts
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.1665,3.0153,5.2697,3.0152,5.2697,3.1831,2.1665,3.1831
+> Maintenance Services - Caroni Transmission
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5375,3.4077,2.8395,3.4083,2.8394,3.5713,1.5374,3.5707
+> Dear Mr. Romain:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.531,3.7937,6.9209,3.7932,6.921,4.5761,1.5311,4.5766
+> We refer to your letter dated November 29, 1995 with reference to the above contracts. As you did not submit the bidding documents and evaluation report, we will review during our next supervision mission the local procurement procedures used to award the following contracts:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5555,4.7715,6.5092,4.7733,6.5092,4.959,1.5554,4.9572
+> Sections 1 and 3. Philibert Edmund, for $TT 103,200, and $TT 6,400.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5535,5.1668,4.7001,5.1694,4.6999,5.3491,1.5533,5.3465
+> Section 2. Edghill Whittier, for $TT 22,689.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.528,5.5571,6.6819,5.562,6.6813,6.1195,1.5275,6.1146
+> We have taken note that these services are part of the work plan under the Emergency Operational Fund, for maintenance services along the Caroni Transmission.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.532,6.3394,5.9824,6.3443,5.9796,8.2827,2.5292,8.2777
+> Sincerely, Carlo Rietveld Task Manager Environment and Urban Development Division Department III Latin America and the Caribbean Regional Office
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5185,8.5025,4.3001,8.494,4.3012,8.8639,1.5196,8.8723
+> cc: Mr. R. Lequay - Fax 809-625-7003 cc: Mr. E. Spiers - Fax 809-636-2364
+
+---
+
+## Tables
+| 1818.H Street, N.W Washington, D.C. 20433 | (202) 478-2929 Cable Address: |
+|---|---|
+| U.S.A. | FAX: (202) 676-0408 |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_2
+================================================================================
+

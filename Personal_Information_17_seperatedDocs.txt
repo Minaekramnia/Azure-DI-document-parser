@@ -1,0 +1,273 @@
+--- Document Analysis with Segmentation for Personal_Information_17.pdf.json ---
+
+📏 PAGE DIMENSIONS SUMMARY:
+--------------------------------------------------
+Page 1: 10.9444 x 8.5417 inch
+Page 2: 8.5417 x 10.9722 inch
+
+🔄 DOCUMENT CHANGE SUMMARY:
+============================================================
+Total Pages: 2
+Document Segments Found: 2
+Document Changes Detected: 1
+
+🔄 CHANGE DETECTED AT PAGE 2:
+   📏 SIZE CHANGE: 10.9444x8.5417 → 8.5417x10.9722
+   → Decision: SIZE CHANGE ONLY
+
+============================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_1
+Pages: 1-1 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 1: 10.9444 x 8.5417 inch | Titles: ['Record Removal Notice']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_1
+================================================================================
+
+# Page 1
+**📏 Dimensions:** 10.9444 x 8.5417 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'Record Removal Notice'
+
+## Paragraphs
+**🎯 TITLE DETECTED:** title
+**Role:** title
+**BoundingBox:** 1.2908,0.6959,5.9456,0.6873,5.9462,1.0107,1.2914,1.0194
+> Record Removal Notice
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.1731,0.5451,10.5443,0.5535,10.5418,0.9618,9.1706,0.9533
+> The World Bank Group Archives & Records Management
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.3967,1.292,7.3498,1.292,7.3708,2.3027,0.4072,2.3132
+> File Title Lewis T. Preston - Chronological Records - Volume 4 - January 1992 - February 1992
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.3498,1.292,10.5954,1.3025,10.5954,2.3027,7.3708,2.3027
+> Barcode No. 1780272
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4072,2.3132,2.7914,2.3132,2.7914,2.5133,0.4072,2.4922
+> Document Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7914,2.3132,7.3708,2.3027,7.3708,2.5028,2.7914,2.5133
+> Document Type
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4072,2.4922,2.7914,2.5133,2.7914,2.7975,0.4072,2.8081
+> 01/06/1992
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7914,2.5133,7.3708,2.5028,7.3708,2.7975,2.7914,2.7975
+> Letter
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.538,2.8194,2.5295,2.8221,2.5293,2.9667,0.5378,2.9637
+> Correspondents / Participants
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4401,2.9674,1.8541,2.9701,1.8538,3.1253,0.4398,3.1234
+> From: Bilsel Alisbah
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4421,3.1659,1.6805,3.17,1.68,3.3199,0.4416,3.3172
+> To: Lewis Preston
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5338,3.807,1.4503,3.8066,1.4503,3.9535,0.5338,3.9539
+> Subject / Title
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4395,3.9566,2.3516,3.9612,2.3512,4.1258,0.4391,4.1212
+> Re: Senator Bumpers' Letter
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.4383,4.8077,1.8711,4.8108,1.8704,5.1201,0.4376,5.1169
+> Exception(s) Personal Information
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5388,5.926,1.9836,5.9306,1.9831,6.0752,0.5384,6.0706
+> Additional Comments
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8817,6.334,10.6102,6.3392,10.6091,7.119,6.8806,7.1138
+> The item(s) identified above has/have been removed in accordance with The World Bank Policy on Access to Information or other disclosure policies of the World Bank Group.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8458,7.5407,8.7311,7.5407,8.7311,7.7298,6.8458,7.7298
+> Withdrawn by
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.7311,7.5407,10.4606,7.5407,10.4606,7.7353,8.7311,7.7298
+> Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8458,7.7298,8.7311,7.7298,8.7311,8.0412,6.8458,8.0412
+> Salma Berrada El Azizi
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.7311,7.7298,10.4606,7.7353,10.4606,8.0467,8.7311,8.0412
+> July 31, 2025
+
+---
+
+**Role:** pageFooter
+**BoundingBox:** 9.3062,8.0712,10.5962,8.0722,10.5961,8.2002,9.3061,8.1991
+> Archives 01 (March 2017)
+
+---
+
+## Tables
+| File Title Lewis T. Preston - Chronological Records - Volume 4 - January 1992 - February 1992 |  | Barcode No. 1780272 |
+|---|---|---|
+| Document Date | Document Type |  |
+| 01/06/1992 | Letter |  |
+
+---
+
+| Withdrawn by | Date |
+|---|---|
+| Salma Berrada El Azizi | July 31, 2025 |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_1
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_2
+Pages: 2-2 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 2: 8.5417 x 10.9722 inch
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_2
+================================================================================
+
+# Page 2
+**📏 Dimensions:** 8.5417 x 10.9722 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**📏 SIZE CHANGED FROM PREVIOUS PAGE**
+**🔄 DIMENSION CHANGE DETECTED**
+
+## Paragraphs
+**Role:** paragraph
+**BoundingBox:** 4.3125,2.1091,5.8267,2.1038,5.8273,2.2758,4.3131,2.2811
+> January 6, 1992
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3665,2.9493,3.1904,2.9502,3.1903,3.1077,1.3665,3.1069
+> Mr. Lewis Preston:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.8793,3.4529,2.2804,3.4599,2.2777,3.6119,1.8766,3.605
+> Lew,
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.9962,3.7718,5.8249,3.7694,5.8251,3.9346,2.9963,3.937
+> Re: Senator Bumpers' Letter
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3777,4.2683,7.4437,4.2633,7.4442,4.774,1.3781,4.7789
+> I prepared the attached letter to Senator Dale Bumpers in response to his letter of December 19 to you in which he recommends Mr. Jean Luc Jeanory for Bank employment.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.3748,4.9319,7.4486,4.9194,7.4521,6.5988,1.3783,6.6113
+> Mr. Jeanory is a French national who is interested in a vice-presidential position with the Bank. He is currently a Division Chief/Director in UNIDO in Paris. As you know, the Bank rarely recruits externally at the senior levels. Furthermore, preliminary feedback from our Paris Office indicates that there may be some issues about his performance at UNIDO. This is not an easy thing to track down. But we are discretely doing some further reference checking. In the meantime for obvious reasons, the letter to the Senator doesn't promise anything but a follow up.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.2329,6.7491,7.2493,6.7524,7.2492,6.9359,2.2328,6.9327
+> I would be happy to sign the letter if you prefer.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.3272,7.9523,5.7388,7.9442,5.7427,8.6216,4.3311,8.6297
+> fig/Plage Bilsel Alisbah
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.385,8.7635,2.4156,8.7612,2.4159,8.9145,1.3854,8.9168
+> Attachment
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_2
+================================================================================
+

@@ -1,0 +1,493 @@
+--- Document Analysis with Segmentation for Personal_Information_3.pdf.json ---
+
+📏 PAGE DIMENSIONS SUMMARY:
+--------------------------------------------------
+Page 1: 11.0417 x 8.5556 inch
+Page 2: 8.5556 x 11.0417 inch
+Page 3: 8.5139 x 11 inch
+
+🔄 DOCUMENT CHANGE SUMMARY:
+============================================================
+Total Pages: 3
+Document Segments Found: 2
+Document Changes Detected: 1
+
+🔄 CHANGE DETECTED AT PAGE 2:
+   📏 SIZE CHANGE: 11.0417x8.5556 → 8.5556x11.0417
+   → Decision: SIZE CHANGE ONLY
+
+🔄 CHANGE DETECTED AT PAGE 3:
+   📏 SIZE CHANGE: 8.5556x11.0417 → 8.5139x11
+   → Decision: SIZE CHANGE ONLY
+
+============================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_1
+Pages: 1-1 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 1: 11.0417 x 8.5556 inch | Titles: ['Record Removal Notice']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_1
+================================================================================
+
+# Page 1
+**📏 Dimensions:** 11.0417 x 8.5556 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'Record Removal Notice'
+
+## Paragraphs
+**🎯 TITLE DETECTED:** title
+**Role:** title
+**BoundingBox:** 1.5955,0.9709,5.9901,0.9602,5.9909,1.2705,1.5963,1.2811
+> Record Removal Notice
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.0384,0.8322,10.3313,0.841,10.3287,1.2195,9.0358,1.2107
+> The World Bank Group Archives & Records Management
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7458,1.5369,7.3402,1.5369,7.3402,2.476,0.7557,2.476
+> File Title Boke Extension United Nation Development Programme [UNDP] Technical Assistance Project - Guinea - Loan 0557 - P001019 - 1968 Administration
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.3402,1.5369,10.3998,1.5468,10.3998,2.476,7.3402,2.476
+> Barcode No. 1786470
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7557,2.476,3.0925,2.476,3.0925,2.6638,0.7557,2.6638
+> Document Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0925,2.476,7.3402,2.476,7.3402,2.6638,3.0925,2.6638
+> Document Type
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7557,2.6638,3.0925,2.6638,3.1024,2.9406,0.7557,2.9406
+> October 8, 1968
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0925,2.6638,7.3402,2.6638,7.3501,2.9406,3.1024,2.9406
+> Letter
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7949,2.9674,2.7642,2.9679,2.764,3.4536,0.7948,3.453
+> Correspondents / Participants To: Roger Hornstein From: H.J. van Helden
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.8831,3.9135,1.7502,3.9102,1.7509,4.0457,0.8838,4.0498
+> Subject / Title
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7969,4.0496,4.0613,4.047,4.0614,4.2054,0.7971,4.208
+> Chairman of Construction Coordinating Committee
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.8908,4.8498,1.6863,4.8519,1.686,4.9912,0.8904,4.9891
+> Exception(s)
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7992,4.9945,2.1445,4.9953,2.1445,5.144,0.7992,5.1433
+> Personal Information
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.8022,5.91,2.252,5.909,2.2523,6.4345,0.8025,6.4354
+> Additional Comments Includes CV
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.884,6.2839,10.4057,6.288,10.4048,7.0246,6.8831,7.0204
+> The item(s) identified above has/have been removed in accordance with The World Bank Policy on Access to Information or other disclosure policies of the World Bank Group.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8857,7.4248,8.4679,7.4248,8.4679,7.6031,6.8857,7.6031
+> Withdrawn by
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.4679,7.4248,10.3899,7.4248,10.3899,7.6031,8.4679,7.6031
+> Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.8857,7.6031,8.4679,7.6031,8.4679,7.8872,6.8857,7.8872
+> Vlada Alekankina
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 8.4679,7.6031,10.3899,7.6031,10.3954,7.8927,8.4679,7.8872
+> August 18, 2025
+
+---
+
+**Role:** pageFooter
+**BoundingBox:** 9.1834,7.9117,10.3951,7.9137,10.3949,8.0369,9.1832,8.0349
+> Archives 01 (March 2017)
+
+---
+
+## Tables
+| File Title Boke Extension United Nation Development Programme [UNDP] Technical Assistance Project - Guinea - Loan 0557 - P001019 - 1968 Administration |  | Barcode No. 1786470 |
+|---|---|---|
+| Document Date | Document Type |  |
+| October 8, 1968 | Letter |  |
+
+---
+
+| Withdrawn by | Date |
+|---|---|
+| Vlada Alekankina | August 18, 2025 |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_1
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_2
+Pages: 2-3 (2 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 2: 8.5556 x 11.0417 inch
+Page 3: 8.5139 x 11 inch
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_2
+================================================================================
+
+# Page 2
+**📏 Dimensions:** 8.5556 x 11.0417 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**📏 SIZE CHANGED FROM PREVIOUS PAGE**
+**🔄 DIMENSION CHANGE DETECTED**
+
+## Paragraphs
+**Role:** pageHeader
+**BoundingBox:** 7.2463,0.1851,8.074,0.103,8.0984,0.3487,7.2707,0.4308
+> Gui 557
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2688,1.2211,2.9008,1.2211,2.9008,1.4004,1.2688,1.4004
+> Mr. Roger Hornstein
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2739,1.5568,2.6464,1.5636,2.6455,1.7389,1.273,1.7321
+> H. J. van Helden
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7919,1.4814,2.8794,1.4789,2.8891,1.8229,2.8015,1.8254
+> 1
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8992,1.1369,3.1755,1.1342,3.1812,1.7162,2.9049,1.7189
+> 4
+
+---
+
+**Role:** pageHeader
+**BoundingBox:** 6.0404,1.2232,7.3248,1.2191,7.3254,1.4189,6.0411,1.4229
+> October 8, 1968
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2801,1.8888,6.0018,1.9114,6.0002,2.2534,1.2784,2.2308
+> GUINEA - Boke Project Chairman of Construction Coordinating Committee
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2767,2.5616,7.2447,2.5693,7.243,3.9251,1.275,3.9174
+> 1. You attended the meeting at which Mr. Donald Henry May, a candidate for the position of Chairman of the Construction Coordinating Committee for the Boke Project, was interviewed on October 4, 1968 by Messrs. Piccagli, Carmichael, Sir Gordon Mackay and myself. The curriculum vitae of Mr. May is attached .* He was selected by a Halco selection committee, and his personal and professional history has been scrutinized by Handy Associates International Inc., staff recruitment consultants.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2658,4.0797,7.2257,4.083,7.2255,4.5965,1.2656,4.5932
+> 2. After the interview all the above staff members agreed that Mr. May made a satisfactory impression, and that he would be acceptable to the Bank for the above position.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2609,4.756,7.2347,4.7433,7.2369,5.7692,1.2631,5.7819
+> 3. Since the appointment of a Chairman of the Construction Coordinating Committee, acceptable to the Bank, is a condition of effectiveness of the loan, it is suggested that the Guinean Ambassador and Mr. Lawrence Harvey, President of Halco, now be informed informally by you that Mr. May would be acceptable to the Bank if his name were put forward officially by Halco and the Guinean Government.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2869,6.047,4.5635,6.049,4.5634,6.2765,1.2867,6.2745
+> * Attachment: to Operational Files only
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2655,6.4349,2.5616,6.4424,2.5606,6.6194,1.2645,6.6119
+> HJvanHelden :poc
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2718,6.7569,6.8667,6.7561,6.8668,7.0968,1.2718,7.0977
+> cc: Messrs. Piccagli, Carmichael, Sir Gordon Mackay, Higginbottom, Sander
+
+---
+
+----------------------------------------
+
+# Page 3
+**📏 Dimensions:** 8.5139 x 11 inch
+**📏 SIZE CHANGED FROM PREVIOUS PAGE**
+**🔄 DIMENSION CHANGE DETECTED**
+
+## Paragraphs
+**Role:** paragraph
+**BoundingBox:** 0.7498,0.5005,4.4291,0.4934,4.4294,0.6487,0.7501,0.6559
+> HANDY ASSOCIATES INTERNATIONAL, INC.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7837,1.045,4.4086,1.03,4.4138,2.2803,0.7888,2.2954
+> DONALD HENRY MAY, O.B.E., M. Inst. C.E., M.I. Mech. E., M.I. Instruct. E. Ridgewood Lodge, Cromford, Near Matlock, Derbyshire, England. Telephone - 0629 82 2333
+
+---
+
+**Role:** sectionHeading
+**BoundingBox:** 0.7805,2.6379,1.4324,2.635,1.433,2.7557,0.7811,2.7586
+> PERSONAL
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6966,2.8408,2.8236,2.848,2.8307,3.1703,0.6966,3.156
+> Age
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8236,2.848,7.5143,2.8623,7.5143,3.1775,2.8307,3.1703
+> 56 years, born November 21, 1912 in London
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6966,3.156,2.8307,3.1703,2.8307,3.4855,0.6966,3.4711
+> Citizenship
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,3.1703,7.5143,3.1775,7.5143,3.4926,2.8307,3.4855
+> British
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6966,3.4711,2.8307,3.4855,2.8307,3.8006,0.6966,3.7863
+> Family
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,3.4855,7.5143,3.4926,7.5143,3.8078,2.8307,3.8006
+> Married: daughter 24, son 19
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6966,3.7863,2.8307,3.8006,2.8307,4.2734,0.6966,4.259
+> Education
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,3.8006,7.5143,3.8078,7.5143,4.2805,2.8307,4.2734
+> Northampton Engineering College; Westminster Technical College
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6966,4.259,2.8307,4.2734,2.8307,4.61,0.6966,4.5957
+> Languages
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,4.2734,7.5143,4.2805,7.5143,4.6172,2.8307,4.61
+> English, French (rusty)
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6966,4.5957,2.8307,4.61,2.8307,4.9037,0.6966,4.8893
+> EXPERIENCE
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6966,4.8893,2.8307,4.9037,2.8307,5.2331,0.6895,5.226
+> 1968 to present
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,4.9037,7.5143,4.918,7.5143,5.2403,2.8307,5.2331
+> CONSULTING ENGINEER
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,5.2331,7.5143,5.2403,7.5143,5.8706,2.8307,5.8706
+> Special projects consultancy in private capacity. Income £9,000 to £10,000 ($24,000) p.a.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6895,5.8634,2.8307,5.8706,2.8307,6.1786,0.6895,6.1786
+> 1966 to 1968
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,5.8706,7.5143,5.8706,7.5143,6.1858,2.8307,6.1786
+> LEHANE, MACKENZIE & SHAND LTD.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,6.1786,7.5143,6.1858,7.5143,6.5081,2.8307,6.5081
+> Managing Director and Technical Adviser
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,6.5081,7.5143,6.5081,7.5143,7.4679,2.8307,7.4679
+> Two year contract to reconstruct and modernise this Midlands-based Civil Engineering and Contracting Company. The company responded well to treatment. Salary £5,000 ($12,000) plus bonus up to £2,500
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6823,7.4607,2.8307,7.4679,2.8307,7.783,0.6823,7.783
+> 1961 to 1966
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,7.4679,7.5143,7.4679,7.5143,7.7902,2.8307,7.783
+> CONSULTING ENGINEER
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,7.783,7.5143,7.7902,7.5143,8.8431,2.8307,8.8431
+> Varied practise included substantial work for Sir Robert McAlpine & Sons, particularly in connection with system building, departmental organisation, property development, feasibility studies and negotiations overseas. Income £4,000 to £6,000 ($14,400) p.a.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6823,8.8431,2.8307,8.8431,2.8307,9.2084,0.6751,9.2012
+> 1957 to 1961
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,8.8431,7.5143,8.8431,7.5143,9.2155,2.8307,9.2084
+> BERNARD SUNLEY & SONS LTD.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.8307,9.2084,7.5143,9.2155,7.5143,9.545,2.8307,9.545
+> Managing Director
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.697,9.6305,6.8595,9.6369,6.8592,9.7881,3.6967,9.7817
+> Brief to develop company. In four years
+
+---
+
+## Tables
+| Age | 56 years, born November 21, 1912 in London |
+|---|---|
+| Citizenship | British |
+| Family | Married: daughter 24, son 19 |
+| Education | Northampton Engineering College; Westminster Technical College |
+| Languages | English, French (rusty) |
+| EXPERIENCE |  |
+| 1968 to present | CONSULTING ENGINEER |
+|  | Special projects consultancy in private capacity. Income £9,000 to £10,000 ($24,000) p.a. |
+| 1966 to 1968 | LEHANE, MACKENZIE & SHAND LTD. |
+|  | Managing Director and Technical Adviser |
+|  | Two year contract to reconstruct and modernise this Midlands-based Civil Engineering and Contracting Company. The company responded well to treatment. Salary £5,000 ($12,000) plus bonus up to £2,500 |
+| 1961 to 1966 | CONSULTING ENGINEER |
+|  | Varied practise included substantial work for Sir Robert McAlpine & Sons, particularly in connection with system building, departmental organisation, property development, feasibility studies and negotiations overseas. Income £4,000 to £6,000 ($14,400) p.a. |
+| 1957 to 1961 | BERNARD SUNLEY & SONS LTD. |
+|  | Managing Director |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_2
+================================================================================
+

@@ -1,0 +1,577 @@
+--- Document Analysis with Segmentation for Personal_Information_12.pdf.json ---
+
+📏 PAGE DIMENSIONS SUMMARY:
+--------------------------------------------------
+Page 1: 11.1944 x 8.6944 inch
+Page 2: 8.6944 x 11.1944 inch
+Page 3: 8.6944 x 11.1944 inch
+
+🔄 DOCUMENT CHANGE SUMMARY:
+============================================================
+Total Pages: 3
+Document Segments Found: 3
+Document Changes Detected: 2
+
+🔄 CHANGE DETECTED AT PAGE 2:
+   📏 SIZE CHANGE: 11.1944x8.6944 → 8.6944x11.1944
+   📄 NEW TITLE: 'THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM'
+   → Decision: NEW DOCUMENT
+
+🔄 CHANGE DETECTED AT PAGE 3:
+   📄 NEW TITLE: '8 THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM RECEIVED'
+   → Decision: NEW DOCUMENT
+
+============================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_1
+Pages: 1-1 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 1: 11.1944 x 8.6944 inch | Titles: ['Record Removal Notice']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_1
+================================================================================
+
+# Page 1
+**📏 Dimensions:** 11.1944 x 8.6944 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'Record Removal Notice'
+
+## Paragraphs
+**🎯 TITLE DETECTED:** title
+**Role:** title
+**BoundingBox:** 1.4755,0.725,6.1329,0.712,6.1338,1.0398,1.4764,1.0528
+> Record Removal Notice
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.3671,0.5763,10.7379,0.5837,10.7357,0.9849,9.365,0.9776
+> The World Bank Group Archives & Records Management
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5846,1.3414,7.5671,1.3309,7.5671,2.3262,0.5951,2.3366
+> File Title Edward Jaycox - Chronological File - April - July 1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.5671,1.3309,10.7962,1.3309,10.7962,2.3366,7.5671,2.3262
+> Barcode No. 1546164
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5951,2.3366,3.0065,2.3366,3.0065,2.5357,0.5951,2.5357
+> Document Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0065,2.3366,7.5671,2.3262,7.5671,2.5357,3.0065,2.5357
+> Document Type
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.5951,2.5357,3.0065,2.5357,3.0065,2.8395,0.5951,2.8395
+> 07 /31/1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.0065,2.5357,7.5671,2.5357,7.5671,2.8395,3.0065,2.8395
+> Letter
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6263,2.853,2.7179,2.8525,2.718,3.3736,0.6264,3.3742
+> Correspondents / Participants From: Edward Jaycox AFRVP To: Mr. Ross Marcou, PSCPS
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6285,3.8532,2.6361,3.8527,2.6362,4.1842,0.6286,4.1847
+> Subject / Title Request for salary adjustment
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6284,4.857,2.0619,4.8593,2.0614,5.1736,0.6279,5.1714
+> Exception(s) Personal Information
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.717,5.9828,2.1707,5.9833,2.1706,6.131,0.7169,6.1305
+> Additional Comments
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.0772,6.385,10.8021,6.3903,10.801,7.1767,7.0761,7.1713
+> The item(s) identified above has/have been removed in accordance with The World Bank Policy on Access to Information or other disclosure policies of the World Bank Group.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.0666,7.5963,9.1843,7.5963,9.1843,7.7831,7.0666,7.7831
+> Withdrawn by
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.1843,7.5963,10.7981,7.5963,10.7981,7.7831,9.1843,7.7831
+> Date
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 7.0666,7.7831,9.1843,7.7831,9.1843,8.1001,7.0666,8.0944
+> Salma Berrada El Azizi
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 9.1843,7.7831,10.7981,7.7831,10.7981,8.1001,9.1843,8.1001
+> July 31, 2025
+
+---
+
+**Role:** pageFooter
+**BoundingBox:** 9.5025,8.1209,10.7931,8.1238,10.7928,8.2512,9.5022,8.2482
+> Archives 01 (March 2017)
+
+---
+
+## Tables
+| File Title Edward Jaycox - Chronological File - April - July 1994 |  | Barcode No. 1546164 |
+|---|---|---|
+| Document Date | Document Type |  |
+| 07 /31/1994 | Letter |  |
+
+---
+
+| Withdrawn by | Date |
+|---|---|
+| Salma Berrada El Azizi | July 31, 2025 |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_1
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_2
+Pages: 2-2 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 2: 8.6944 x 11.1944 inch | Titles: ['THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_2
+================================================================================
+
+# Page 2
+**📏 Dimensions:** 8.6944 x 11.1944 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM'
+**📏 SIZE CHANGED FROM PREVIOUS PAGE**
+**🔄 DIMENSION CHANGE DETECTED**
+
+## Paragraphs
+**🎯 TITLE DETECTED:** title
+**Role:** title
+**BoundingBox:** 0.7489,0.5668,4.6306,0.5913,4.6278,1.0343,0.7461,1.0098
+> THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.9369,1.4048,1.2721,1.4062,1.2716,1.5269,0.9364,1.5255
+> DATE:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5028,1.3922,2.6194,1.3914,2.6195,1.5376,1.5029,1.5385
+> July 31, 1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.0627,1.7419,1.2736,1.7435,1.2732,1.8629,1.0618,1.8614
+> TO:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4828,1.7304,3.3736,1.7312,3.3736,1.8708,1.4827,1.87
+> Mr. Ross Marcou, PSCPS
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7533,1.9036,0.8484,1.9039,0.8481,2.0241,0.753,2.0238
+> 2
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.8971,2.0716,1.272,2.0712,1.2721,2.1921,0.8972,2.1925
+> FROM:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4821,2.0533,3.9549,2.0588,3.9546,2.2062,1.4817,2.2007
+> Mr. Edward V.K. Jaycox, AFRVP
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 4.1491,1.7134,5.332,1.6601,5.3435,2.3278,4.1597,2.3782
+> Seaway
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.6018,2.3998,1.2707,2.3981,1.271,2.5224,0.6022,2.5241
+> EXTENSION:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4901,2.3919,1.9402,2.3934,1.9398,2.5197,1.4897,2.5185
+> 34000
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 0.7219,2.7276,1.2685,2.7298,1.268,2.8533,0.7214,2.8512
+> SUBJECT:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4879,2.7236,3.9559,2.7315,3.9554,2.8692,1.4874,2.8599
+> Request for salame justment
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5031,3.2112,7.3058,3.223,7.3052,3.5371,1.5025,3.5253
+> 1. This is. to request the following staffs' salary be adjusted for the reescas Listed hide their names:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5173,3.7087,7.53,3.7104,7.5298,4.359,1.5171,4.3573
+> (i) Mr. Francois Lanotte's salary be increased by $140900 to $1960.00. After reviewing the salary increase afid percentage the Director believes thezott does not accurately reflect his contributions to the CFA Zone work.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5258,4.526,7.3029,4.5273,7.3028,4.8425,1.5257,4.8412
+> (ii) Ms. Slavia B. Sagaxi's salary should be increased by $180.00 to $1980.00 forthe same reason as mentioned in (1)
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5154,5.0191,7.4632,5.0195,7.4631,5.8459,1.5153,5.8454
+> (iii) Mr. Gautam Sengupta's salary increase should be 2.5% under SRI level 25. Mr Sengupta transferred to the Africa Region from the Finance Complexsas a grandfathered Level 25. on the SRI roster, he was shown as level 24 and the adjustment was made on that salary range rather than at the level 25 salary range.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5154,6.0079,7.5435,6.0205,7.5425,6.5142,1.5144,6.5015
+> (iv) Ms. Nellie Sew Kwan Kan's salary should be increased by $270.00 to $770.00. The correct salary increase was inaccurately recorded by Mr. Jean Louis Sarbib. Division Chief
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5092,6.6872,7.5485,6.688,7.5484,7.5088,1.5091,7.508
+> (v) Ms. Agnes Breidenbachis salary should be increased by $170.00 to $340.00. Ms . Breidenbach experienced emotional difficulties this year and left the services of the Bank .. As it was impossible to complete a performance review with Ms 33 Breidenbach, it was decided that she should receive the minimum level of a 3 rating.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5075,7.6714,7.5199,7.6687,7.5204,8.8298,1.508,8.8325
+> (vi) Mr. Brian Davis' salary should be increased by $480.00 to $1800.00. Mr. Davis rectly returned from an external service assignment. During the SRT exercise, the department gave him an increase which is below the midpoint of 3 for his reward category. Mr. Davis raised his increase as an issue as he believed that para. 5 of FY1494/013 as meaning he should be given the midpoint of his reward category. The Department has agreed.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4881,8.9983,6.2501,9.0037,6.2499,9.1646,1.4879,9.1592
+> 2. Thank you for your assistance in the above changes.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.483,9.3359,6.5321,9.3334,6.5321,9.49,1.4831,9.4924
+> CC : Mr. Evans, Ms. Jokkum, Ms. Pepper, Mr. Grassley, PMDAF
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_2
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_3
+Pages: 3-3 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 3: 8.6944 x 11.1944 inch | Titles: ['8 THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM RECEIVED']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_3
+================================================================================
+
+# Page 3
+**📏 Dimensions:** 8.6944 x 11.1944 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** '8 THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM RECEIVED'
+
+## Paragraphs
+**🎯 TITLE DETECTED:** title
+**Role:** title
+**BoundingBox:** 1.0669,0.0166,6.2892,0.035,6.2854,1.1201,1.063,1.1016
+> 8 THE WORLD BANK/IFC/MIGA OFFICE MEMORANDUM RECEIVED
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.0094,1.2359,6.5591,1.2584,6.5562,1.4572,5.0065,1.4347
+> 94 AUG -3 PM 5: 18
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4608,1.4661,3.0301,1.458,3.031,1.6279,1.4616,1.6361
+> DATE: August 3, 1994
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 6.4269,1.4503,7.6965,1.4465,7.697,1.6033,6.4273,1.6071
+> CONFIDENTIAL
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.1473,1.5757,6.377,1.5993,6.3735,1.778,5.1439,1.7565
+> OFFICE OF RVP
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.1201,1.7537,6.3811,1.7752,6.378,1.9535,5.1171,1.9324
+> AFRICA REGION
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.6023,1.8792,1.7991,1.8788,1.7993,1.9813,1.6026,1.9817
+> TO:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.9211,1.8389,4.4608,1.8371,4.4609,2.0076,1.9212,2.0094
+> Mr. Edward V. K. Jaycox, AFRVP
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.4326,2.2043,1.7971,2.2057,1.7967,2.3155,1.4322,2.314
+> FROM:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.9486,2.1245,3.9802,2.1286,3.9798,2.3486,1.9481,2.3445
+> Ross A. Marcou, PSCPSUL
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 3.635,2.0497,3.9893,2.0464,3.9927,2.407,3.6384,2.4103
+> All
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.5172,2.5319,1.8,2.5336,1.7997,2.6433,1.517,2.6415
+> EXT .:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.9448,2.4962,2.3811,2.4972,2.3808,2.6474,1.9445,2.6464
+> 30282
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.2432,2.8642,1.7933,2.8628,1.7936,2.977,1.2435,2.9784
+> SUBJECT:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.9446,2.8274,4.0022,2.823,4.0026,2.9994,1.9449,3.001
+> Salary Increase Adjustment
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.9469,3.3982,7.5753,3.3919,7.5759,3.8759,1.9475,3.8822
+> 1. This is to acknowledge your request to modify the salary increase of the following staff:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.4623,3.958,6.8265,3.958,6.8208,4.2751,5.4623,4.2864
+> New Increase
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7623,4.2977,5.4623,4.2864,5.4623,4.5695,2.7623,4.5808
+> (i) Mr. Francois Laporte
+:unselected:
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.4623,4.2864,6.8208,4.2751,6.8208,4.5582,5.4623,4.5695
+> 1,960
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7623,4.5808,5.4623,4.5695,5.4623,4.7564,2.7623,4.7734
+> (ii) Ms. Silvia B. Sagari
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.4623,4.5695,6.8208,4.5582,6.8208,4.745,5.4623,4.7564
+> 1,980
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7623,4.7734,5.4623,4.7564,5.4623,4.9545,2.7623,4.9659
+> (iii) Mr. Gautam Sengupta
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.4623,4.7564,6.8208,4.745,6.8208,4.9489,5.4623,4.9545
+> 2,940
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7623,4.9659,5.4623,4.9545,5.4623,5.1414,2.7623,5.1584
+> (iv) Ms. Nellie Sew Kwan Kan
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.4623,4.9545,6.8208,4.9489,6.8208,5.1301,5.4623,5.1414
+> 770
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7623,5.1584,5.4623,5.1414,5.4623,5.3396,2.7623,5.3509
+> (v) Ms. Agnes Breidenbach
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.4623,5.1414,6.8208,5.1301,6.8208,5.3339,5.4623,5.3396
+> 340
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.7623,5.3509,5.4623,5.3396,5.4623,5.5604,2.7623,5.5717
+> (vi) Mr. Brian Davis
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 5.4623,5.3396,6.8208,5.3339,6.8208,5.5548,5.4623,5.5604
+> 1,800
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 2.0096,5.7409,7.6652,5.732,7.6655,5.9038,2.0099,5.9127
+> 2. A revised Personnel Action Form will be issued to the staff member.
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.9583,6.3284,4.9439,6.3155,4.949,7.475,1.9633,7.488
+> cc: Messrs. G. Evans, PMDLC L. Grassley, PMDAF T. Mannion, PSCHS Mmes. M. Bendjouya, PSCPS (o/r) R. Jukkum, PMDAF A. Pepper, PMDAF
+
+---
+
+**Role:** paragraph
+**BoundingBox:** 1.9571,7.6675,2.6825,7.671,2.6807,8.0379,1.9553,8.0344
+> \bg 94sriladjust.mem Aug. 3, 1994
+
+---
+
+## Tables
+|  | New Increase |
+|---|---|
+| (i) Mr. Francois Laporte
+:unselected: | 1,960 |
+| (ii) Ms. Silvia B. Sagari | 1,980 |
+| (iii) Mr. Gautam Sengupta | 2,940 |
+| (iv) Ms. Nellie Sew Kwan Kan | 770 |
+| (v) Ms. Agnes Breidenbach | 340 |
+| (vi) Mr. Brian Davis | 1,800 |
+
+---
+
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_3
+================================================================================
+

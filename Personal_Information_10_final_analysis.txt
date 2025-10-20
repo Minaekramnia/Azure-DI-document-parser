@@ -1,0 +1,73 @@
+=== Document Analysis V3 (Prompt V3): /Volumes/qa_datascience_convaiqa/volumes/dataanalyticslake_convai/PRISMArchives/PI/Personal_Information_10.pdf.json ===
+
+Total Pages: 2
+Document Segments: 2
+
+
+============================================================
+SEGMENT: segment_1
+Pages: 1-1 (1 pages)
+============================================================
+
+LLM ANALYSIS RESULTS (Prompt V3):
+```json
+{
+  "File Title": "Water Sector Institutional Strengthening - Trinidad and Tobago - Loan 3784 - P037006 - Supplemental Documents - Volume 3",
+  "Barcode No.": "30497398",
+  "Document Date": "December 20, 1995",
+  "Document Type": "Letter",
+  "Correspondents / Participants": {
+    "To": "Mr. Emmanuel Romain, Executive Director, Water and Sewerage Authority (WASA), Trinidad & Tobago",
+    "From": "Carlo Rietveld, Task Manager, Environment and Urban Development Division"
+  },
+  "Subject / Title": "Trinidad & Tobago - Loan 3784-TT Contracts for Miscellaneous Spare Parts Maintenance Service - Caroni Transmission",
+  "Exception(s)": "Personal Information",
+  "Withdrawn by": "S. Alon",
+  "Date": "8/20/2025"
+}
+```
+
+
+============================================================
+SEGMENT: segment_2
+Pages: 2-2 (1 pages)
+============================================================
+
+LLM ANALYSIS RESULTS (Prompt V3):
+```json
+{
+  "sender_name": "Carlo Rietveld",
+  "sender_organization": "The World Bank",
+  "recipient_name": "Mr. Emmanuel Romain",
+  "recipient_organization": "Water and Sewerage Authority (WASA)",
+  "document_date": "1995-12-20",
+  "subject": [
+    "TRINIDAD & TOBAGO-Loan 3784-TT",
+    "Contracts for Miscellaneous Spare Parts",
+    "Maintenance Services - Caroni Transmission"
+  ],
+  "cc_recipients": [
+    {
+      "name": "Mr. R. Lequay",
+      "contact_info": "Fax 809-625-7003"
+    },
+    {
+      "name": "Mr. E. Spiers",
+      "contact_info": "Fax 809-636-2364"
+    }
+  ],
+  "contracts_mentioned": [
+    {
+      "contractor": "Philibert Edmund",
+      "section": "Sections 1 and 3",
+      "amount": "TT 103,200, and $TT 6,400"
+    },
+    {
+      "contractor": "Edghill Whittier",
+      "section": "Section 2",
+      "amount": "TT 22,689"
+    }
+  ]
+}
+```
+

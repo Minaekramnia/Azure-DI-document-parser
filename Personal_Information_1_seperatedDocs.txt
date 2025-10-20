@@ -1,9 +1,46 @@
---- Document Analysis Output for Personal_Information_1.pdf.json ---
+--- Document Analysis with Segmentation for Personal_Information_1.pdf.json ---
+
+📏 PAGE DIMENSIONS SUMMARY:
+--------------------------------------------------
+Page 1: 11.0417 x 8.5556 inch
+Page 2: 8.5556 x 11.0417 inch
+
+🔄 DOCUMENT CHANGE SUMMARY:
+============================================================
+Total Pages: 2
+Document Segments Found: 2
+Document Changes Detected: 1
+
+🔄 CHANGE DETECTED AT PAGE 2:
+   📏 SIZE CHANGE: 11.0417x8.5556 → 8.5556x11.0417
+   📄 NEW TITLE: 'INCOMING CABLE'
+   → Decision: NEW DOCUMENT
+
+============================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_1
+Pages: 1-1 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 1: 11.0417 x 8.5556 inch | Titles: ['Record Removal Notice']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_1
+================================================================================
 
 # Page 1
+**📏 Dimensions:** 11.0417 x 8.5556 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'Record Removal Notice'
 
 ## Paragraphs
-
+**🎯 TITLE DETECTED:** title
 **Role:** title
 **BoundingBox:** 1.5368,0.8643,5.9444,0.8589,5.9448,1.1646,1.5372,1.17
 > Record Removal Notice
@@ -113,7 +150,6 @@
 ---
 
 ## Tables
-
 | File Title Boke Extension United Nation Development Programme [UNDP] Technical Assistance Project - Guinea - Loan 0557 - P001019 - 1970 Administration |  | Barcode No. 1786477 |
 |---|---|---|
 | Document Date | Document Type |  |
@@ -127,12 +163,37 @@
 
 ---
 
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_1
+================================================================================
+
+
+================================================================================
+DOCUMENT SEGMENT: segment_2
+Pages: 2-2 (1 pages)
+
+🔍 SEGMENT ANALYSIS:
+------------------------------
+Page 2: 8.5556 x 11.0417 inch | Titles: ['INCOMING CABLE']
+================================================================================
+
+
+================================================================================
+📄 DOCUMENT BOUNDARY - SEGMENT_2
 ================================================================================
 
 # Page 2
+**📏 Dimensions:** 8.5556 x 11.0417 inch
+**🆕 DOCUMENT START**
+**🔥 NEW DOCUMENT DETECTED**
+**🎯 TITLE FOUND:** 'INCOMING CABLE'
+**📏 SIZE CHANGED FROM PREVIOUS PAGE**
+**🔄 DIMENSION CHANGE DETECTED**
 
 ## Paragraphs
-
 **Role:** paragraph
 **BoundingBox:** 6.2907,0.0659,7.3291,0.0613,7.33,0.2627,6.2916,0.2673
 > 557 641
@@ -163,6 +224,7 @@
 
 ---
 
+**🎯 TITLE DETECTED:** title
 **Role:** title
 **BoundingBox:** 3.2942,1.1537,5.1969,1.1547,5.1968,1.2885,3.2941,1.2875
 > INCOMING CABLE
@@ -271,5 +333,10 @@
 
 ---
 
+----------------------------------------
+
+
+================================================================================
+END OF DOCUMENT SEGMENT: segment_2
 ================================================================================
 
