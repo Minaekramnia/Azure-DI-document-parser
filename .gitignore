@@ -7,6 +7,12 @@ Personal_Information_*_final_analysis.txt
 Personal_Information_*_vlada_analysis.txt
 Personal_Information_*_analysis_output.txt
 
+# Other confidential documents
+*Liaison*.pdf
+*Liaison*.pdf.json
+*.pdf
+*.pdf.json
+
 # Output directories with processed data
 markdown_reports/
 word_reports/
