@@ -1,17 +1,28 @@
-# Large PDF and JSON files
-*.pdf
+# Confidential data files - DO NOT COMMIT
+Personal_Information_*.pdf.json
+Personal_Information_*.txt
+Personal_Information_*_analysis*.txt
+Personal_Information_*_seperatedDocs.txt
+Personal_Information_*_final_analysis.txt
+Personal_Information_*_vlada_analysis.txt
+Personal_Information_*_analysis_output.txt
+
+# Output directories with processed data
+markdown_reports/
+word_reports/
+final_word_reports/
+*_reports/
+
+# Analysis output files
+*_WORKING_analysis.json
+*_analysis.json
+*_WORKING_PageNumbers_analysis.json
+
+# Environment and credentials
+.env
 *.json
-
-# Output files
-*_analysis_output.txt
-*_CV_analysis_prompt.txt
-master_prompt_output.txt
-segmented_documents_output.txt
-
-# Temporary files
-~$*
-*.tmp
-*.temp
+credentials.json
+service-account-key.json
 
 # Python cache
 __pycache__/
@@ -19,6 +30,7 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
+*.so
 
 # IDE files
 .vscode/
@@ -30,10 +42,37 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Keep only essential code files
-!Azure_DI_output_parser.py
-!Azure_DI_output_parser\ copy.py
-!process_PI2.py
-!README.md
+# Temporary files
+*.tmp
+*.temp
+/tmp/
 
+# Log files
+*.log
+logs/
 
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
